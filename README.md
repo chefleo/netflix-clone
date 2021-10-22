@@ -1,6 +1,7 @@
-# Netflix Clone --> [Live Demo](https://netflix-clone-6dabe.web.app/)
+# Netflix Clone
+[Live Demo](https://netflix-clone-6dabe.web.app/)
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## The video from where I studied
+[https://www.youtube.com/watch?v=-cMqr9HpZ-Y&t=39162s](https://www.youtube.com/watch?v=-cMqr9HpZ-Y&t=39162s)
